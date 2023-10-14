@@ -1,15 +1,15 @@
 # ECom-Analysis
 
-E-Commerce Revenue Management
+E-Commerce Revenue Management:
 Solution of a business problem to identify which region has maximum sales volume, which type of products are sold the most, how much revenue the E-Commerce Company makes, and the brands that use its portal.
 
-Skills & Tools Covered
-numpy
-pandas
-visualization
-user defined functions
+# Skills & Tools Covered
+1. Numpy
+2. Pandas
+3. Visualization
+4. User defined functions
 
-My Learnings
+# My Learnings
 The course "Python for Data Science" provided an invaluable learning experience, particularly through the hands-on project: E-Commerce Revenue Management.
 This project not only honed my Python skills but also demonstrated the practical application of data science in solving real-world business problems. The E-Commerce Revenue Management project was centered around helping an E-Commerce company gain insights into its operations. Here are some of the key aspects covered in this project: 
 
